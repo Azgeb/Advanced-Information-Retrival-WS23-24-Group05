@@ -17,3 +17,5 @@ In order to thoughtfully verify the accuracy of the models' responses, we will d
 
 ## Correction - Change of Base Model and Architecture
 After facing several difficulties with the initial proposed DPL model and Dataset preparation/ availability, we decided to do a comparison of a LLM model with focus on question answering, namely the [vilsonrodrigues/falcon-7b-instruct-sharded](https://huggingface.co/vilsonrodrigues/falcon-7b-instruct-sharded) Model and compare the results on the base model against the fine-tuned model trained on the initially planned dataset. 
+### Schematic - Corrected
+![](https://github.com/Azgeb/Advanced-Information-Retrival-WS23-24-Group05/blob/main/design_doc_diagram_correction.png)
